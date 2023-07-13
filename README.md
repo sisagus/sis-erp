@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sisagus
-- 👀 I’m interested in python & odoo
-- 🌱 I’m currently learning odoo & python
+- 👀 I’m interested in python & erp
+- 🌱 I’m currently learning erp & python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
